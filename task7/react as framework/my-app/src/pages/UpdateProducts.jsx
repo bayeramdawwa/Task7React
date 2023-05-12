@@ -41,7 +41,7 @@ function UpdateProduct() {
     <Container className="mt-5">
       <Form onSubmit={UpdateProduct} style={{ width: "800px", margin: "auto" }}>
         <Form.Group className="mb-3" controlId="formBasicEmail">
-          <Form.Label>2</Form.Label>
+          <Form.Label>title</Form.Label>
           <Form.Control
             onChange={(event) => setTitle(event.target.value)}
             type="text"
