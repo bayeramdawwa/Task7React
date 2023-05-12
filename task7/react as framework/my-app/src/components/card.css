@@ -1,0 +1,19 @@
+.update{
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 0 25px;
+    margin: 0 20px;
+    border-radius: 5px;
+   font-size: 20px;
+}
+.delete{
+    
+    text-decoration: none;
+    background-color: rgb(190, 45, 45);
+    color: white;
+    padding: 0 25px;
+    margin: 0 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
